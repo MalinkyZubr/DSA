@@ -1,0 +1,14 @@
+Abstract data type:
+- define data and operations without implementing it
+  - arrays
+  - linked lists
+  - stacks
+  - queues
+  - tree
+  - graph
+
+1. logical view
+2. operations of datastructures
+3. costs of operations
+4. implementation
+
